@@ -31,19 +31,19 @@ Atualmente, dedico meus estudos à área de **Cybersecurity e Segurança Ofensiv
 Java, Python, TypeScript, Node.js, Spring Boot, React, Angular
 
  |
-| **DevOps & SecOps** |
+ **DevOps & SecOps** |
 
 Linux/Ubuntu, Docker Compose, CI/CD, Coolify, Autenticação JWT
 
 
  |
-| **Dados & IA** |
+ **Dados & IA** |
 
 MongoDB, RAG (Busca Vetorial), TensorFlow, Visão Computacional, YOLO
 
 
  |
-| **Redes & Integrações** |
+ **Redes & Integrações** |
 
 APIs RESTful, Webhooks, Google Maps API, Automação n8n
 
@@ -64,8 +64,5 @@ Exportar para as Planilhas
 
 ### 📫 Contato
 
--   **Localização:** Vitória da Conquista - BA
-
 -   **Email:** leticiacle2012@hotmail.com
-
--   **LinkedIn:** Procure por "Maria Letícia Gonçalves"
+-   **LINKEDIN**: https://www.linkedin.com/in/maria-letícia-gonçalves/
