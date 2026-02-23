@@ -48,7 +48,6 @@ MongoDB, RAG (Busca Vetorial), TensorFlow, Visão Computacional, YOLO
 APIs RESTful, Webhooks, Google Maps API, Automação n8n
 
 
- |
 
 Exportar para as Planilhas
 
