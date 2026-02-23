@@ -28,7 +28,7 @@ Atualmente, dedico meus estudos à área de **Cybersecurity e Segurança Ofensiv
 
 | Período | Cargo / Projeto | Destaques da Atuação |
 | :--- | :--- | :--- |
-|  **Out/2024 - Mar/2026**  |  **Desenvolvedora Full Stack (PeD) @ FAINOR**  |  Sistemas de controle de acesso  para reconhecimento facial em tempo real |
+|  **Out/2024 - atual*  |  **Desenvolvedora Full Stack (PeD) @ FAINOR**  |  Sistemas de controle de acesso  para reconhecimento digital em tempo real |
 |  **Abr/2025 - Jul/2025**  |  **Estagiária de Python @ FilterFeed**  |  Extração de dados com IA Generativa  e integração de CRMs |
 |  **Dez/2023 - Abr/2024**  |  **Especialista em Integração de API Jr. @ AfterSale** |  Integração de ecossistemas   e Quality Assurance (QA) |
 | **Em andamento** |  **Desenvolvedora DevOps @ SaaS Multi-tenant** |  Arquitetura Cloud-Native  e Proxy Reverso (SSL/TLS) |
